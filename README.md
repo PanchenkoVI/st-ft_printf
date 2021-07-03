@@ -12,7 +12,6 @@ Write a library that contains ft_printf, a function that will mimic the real pri
 - You must use the command ar to create your librairy, using the command libtool is forbidden.
 
 ## MAKE
-
 make
 
 make clean
@@ -26,6 +25,7 @@ bash runtest.sh
 
 ## Additional Information
 man 3 printf
+
 man 3 stdarg
 
 https://ru.wikipedia.org/wiki/Printf
