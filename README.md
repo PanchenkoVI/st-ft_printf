@@ -29,4 +29,5 @@ man 3 printf
 man 3 stdarg
 
 https://ru.wikipedia.org/wiki/Printf
+
 http://www.c-cpp.ru/content/printf
