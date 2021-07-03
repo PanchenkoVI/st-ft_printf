@@ -21,6 +21,7 @@ make fclean
 
 ## TESTS
 cd 42TESTERS-PRINTF
+
 bash runtest.sh
 
 ## Additional Information
