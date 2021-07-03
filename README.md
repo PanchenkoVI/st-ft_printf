@@ -14,7 +14,9 @@ Write a library that contains ft_printf, a function that will mimic the real pri
 ## MAKE
 
 make
+
 make clean
+
 make fclean
 
 ## TESTS
